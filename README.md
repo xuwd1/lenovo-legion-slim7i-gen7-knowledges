@@ -16,4 +16,8 @@ Check out the wiki pages of this repository. Contents will be updated soon.
 ### [English](https://github.com/xuwd1/lenovo-legion-slim7i-gen7-knowledges/wiki/Home-English)
 ### [简体中文](https://github.com/xuwd1/lenovo-legion-slim7i-gen7-knowledges/wiki/%E4%B8%BB%E9%A1%B5-%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87)
 
-(new) The speaker problem has been solved!
+
+## Updates
+(new) The speaker problem has been solved! Please check out the wiki pages
+(new) English/Chinese wiki pages on "Linux compatibility"
+(new) English wiki page on "gaming settings on Windows"
