@@ -19,5 +19,7 @@ Check out the wiki pages of this repository. Contents will be updated soon.
 
 ## Updates
 (new) The speaker problem has been solved! Please check out the wiki pages
+
 (new) English/Chinese wiki pages on "Linux compatibility"
+
 (new) English wiki page on "gaming settings on Windows"
