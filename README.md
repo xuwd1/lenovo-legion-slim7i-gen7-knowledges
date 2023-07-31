@@ -18,8 +18,10 @@ Check out the wiki pages of this repository. Contents will be updated soon.
 
 
 ## Updates
+
+(new) y9000x 2022 linux下扬声器无声音（无外放）的问题已经解决！请参见对应的wiki页面
 (new) The speaker problem has been solved! Please check out the wiki pages
 
-(new) English/Chinese wiki pages on "Linux compatibility"
+(new) y9000x 2022 linux下指纹设备无驱动的问题已经解决！请参见对应的wiki页面
 
-(new) English wiki page on "gaming settings on Windows"
+
